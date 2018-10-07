@@ -1,52 +1,31 @@
-* {  
-  margin: 0px;
-  padding: 0px;
+h2{
+  font-style: italic;
+  font-family:"Times New Roman";
+  margin-top: 10px;
+  font-size: 20px;
+}
+p{
+  font-style: italic;
+  margin-left: 400px;
+  margin-right: 400px;
+  font-size: 20px;
+}
+/*
+#outputInches{
+  font-style: italic;
+  font-family:"Times New Roman"
+  margin-left: 400px;
 }
 
-html {
-  display: block;
-  font-display: "Times of new roman";
+#outputMeters{
+  font-style: italic;
+  font-family:"Times New Roman"
+  margin-left: 400px;
 }
 
-body {
-  margin: 1em;
-  font-family: Arial, Helvetica, sans-serif;
-  text-align: center;
-
+#outputMiles{
+  font-style: italic;
+  font-family:"Times New Roman"
+  margin-left: 400px;
 }
-
-header, footer, aside{
-  background-color: lightgrey;
-}
-
-main {
-  display: grid;
-  grid-template-columns: 30% 30% 30%;
-  background-color: #fff;
-  color: #444;
-  padding: 1em;
-}
-
-section {
-  background-color: #006747;
-  color: #fff;
-  border-radius: 0.5em;
-  padding: 1em;
-  margin: 0.5em;
-  font-size: 1em;
-  text-align: center;
-}
-
-ol, ul {
-  padding-left: 1em;
-  padding-bottom: 1em;
-}
-
-li {
-   text-align: left;
-   font-size: 1em;
-}
-
-a {
-  text-decoration: none;
-}
+*/
